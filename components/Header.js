@@ -10,7 +10,6 @@ import {
   ChatIcon,
   ChevronDownIcon,
   BellIcon,
- 
 } from "@heroicons/react/solid"
 import HeaderIcon from "./HeaderIcon"
 
